@@ -22,9 +22,10 @@
 - Reading the current URL from a Server Component is not supported. This design is intentional to support layout state being preserved across page navigations.
   ![returnvalue](./Images/usePathname.png)
 
+nav-links.tsx in app/ui
+
 ```tsx
 'use client';
-
 import {
   UserGroupIcon,
   HomeIcon,
