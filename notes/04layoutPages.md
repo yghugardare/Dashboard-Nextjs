@@ -14,6 +14,7 @@
 
 - Colocation refers to placing two or more things in the same location.
 - Colocation specifically refers to the practice of storing data files like API routes, static files, and components in the same directory as the JavaScript code that uses them
+  
   Benefits of colocation in Next.js:
 - Faster data access: Data files are closer to the code, reducing file system lookup overhead.
 - Improved developer experience: Project structure is more logical and intuitive.
